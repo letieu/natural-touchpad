@@ -1,0 +1,1 @@
+⎜   ↳ DLL07A0:01 044E:121F Touchpad           	id=17	[slave  pointer  (2)]

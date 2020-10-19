@@ -1,0 +1,2 @@
+xinput list | grep pad > tpadstring.txt   
+xinput --set-prop $(tpadid)  'libinput Natural Scrolling Enabled' 1 

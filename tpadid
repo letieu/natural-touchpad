@@ -1,0 +1,10 @@
+#!/usr/bin/env python
+
+f = open('/home/tieu/.custom/python/reverse-touch/tpadstring.txt')
+tpadstring = f.read()
+f.close()
+
+id_index = tpadstring.index('id')
+print(tpadstring[id_index + 3 : id_index + 5])
+
+
