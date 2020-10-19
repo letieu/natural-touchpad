@@ -10,4 +10,5 @@ cp natural-touchpad/*  ~/bin
 ```
 
 # use 
-run   ``` tpadrv 
+run   ``` tpadrv ```
+
